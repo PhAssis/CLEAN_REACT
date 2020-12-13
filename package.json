@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PhAssis/CLEAN_REACT/issues"
   },
-  "homepage": "https://github.com/PhAssis/CLEAN_REACT#readme"
+  "homepage": "https://github.com/PhAssis/CLEAN_REACT#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
